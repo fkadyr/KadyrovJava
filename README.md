@@ -1,4 +1,4 @@
-# Техническое задание QA Automation Trainee
+# Техническое задание QA Engineer Java
 
 ### 1 Задание
 
